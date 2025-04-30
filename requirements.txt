@@ -1,0 +1,3 @@
+faster-whisper       # For local stuff
+requests             # For Deepgram HTTP calls
+python-dotenv        # (optional) For loading API keys from .env
